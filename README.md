@@ -1,16 +1,16 @@
 # Привет! Я Савелий 👋
 
-Я Python-разработчик, специализирующийся на Backend-разработке и проектировании баз данных. Также интересуюсь геймдевом, алгоритмами и созданием интерактивных симуляций. 
+Я начинающий Python-разработчик с базой в Backend-разработке. Также практиковался в геймдеве, реализации алгоритмов и создании интерактивных симуляций. 
 
-Люблю превращать хаос в структурированные данные и писать понятный, поддерживаемый код.
+Активно учусь новому, развиваю навыки и стремлюсь к написанию чистого, понятного кода.
 
 ---
 
-### 💻 Чем я занимаюсь:
+### 💻 Мой практический опыт и учебные проекты:
 
-* 🌐 **Backend & Web-разработка:** Создаю серверную логику на Python и Django. Имею опыт командной разработки (в портфолио есть совместный проект веб-сайта по продаже сувениров).
-* 🗄️ **Проектирование БД:** Уверенно работаю с реляционными базами данных (MySQL). Люблю грамотно выстраивать архитектуру таблиц, оптимизировать связи и запросы через DataGrip и MySQL Workbench.
-* 🎮 **Gamedev & Алгоритмы:** Разрабатываю учебные игровые проекты и интерактивные механики на Unity (C#), а также увлекаюсь визуализацией сложных математических симуляций и клеточных автоматов.
+* 🌐 **Backend & Web-разработка:** Разбирался с серверной логикой на Python и Django. Получил первый опыт командной разработки — участвовал в создании веб-сайта по продаже сувениров.
+* 🗄️ **Работа с БД:** Есть опыт проектирования реляционных баз данных (MySQL). Настраивал архитектуру таблиц, связи и запросы через DataGrip и MySQL Workbench.
+* 🎮 **Gamedev & Алгоритмы:** Писал учебные игровые проекты и механики на Unity (C#), а также занимался визуализацией математических симуляций и клеточных автоматов.
 
 ---
 
@@ -44,10 +44,10 @@
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=dark&locale=ru&hide_border=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Se1e9r1a&show_icons=true&theme=dark&locale=ru&hide_border=true" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=dark&locale=ru&hide_border=true" alt="Top Languages" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Se1e9r1a&layout=compact&theme=dark&locale=ru&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -55,8 +55,7 @@
 ---
 
 ### 🤝 Связаться со мной:
-* **Telegram:** [@ТВОЙ_ТЕЛЕГРАМ](https://t.me/ТВОЙ_ТЕЛЕГРАМ)
-* **Discord:** `ТВОЙ_ДИСКОРД`
+* **Telegram:** [@Selegria](https://t.me/Selegria)
 
 ---
 
