@@ -1,24 +1,46 @@
 # Привет! Я Савелий 👋
 
-Я занимаюсь разработкой программного обеспечения, увлекаюсь автоматизацией, проектированием интерфейсов и математическим моделированием (в частности, клеточными автоматами). Люблю писать чистый, структурированный код и оптимизировать логику приложений.
+Я Python-разработчик, специализирующийся на Backend-разработке и проектировании баз данных. Также интересуюсь геймдевом, алгоритмами и созданием интерактивных симуляций. 
+
+Люблю превращать хаос в структурированные данные и писать понятный, поддерживаемый код.
 
 ---
 
-### 🛠️ Мой технологический стек & Инструменты
+### 💻 Чем я занимаюсь:
 
-<!-- Бейджи языков и инструментов (Shields.io) -->
+* 🌐 **Backend & Web-разработка:** Создаю серверную логику на Python и Django. Имею опыт командной разработки (в портфолио есть совместный проект веб-сайта по продаже сувениров).
+* 🗄️ **Проектирование БД:** Уверенно работаю с реляционными базами данных (MySQL). Люблю грамотно выстраивать архитектуру таблиц, оптимизировать связи и запросы через DataGrip и MySQL Workbench.
+* 🎮 **Gamedev & Алгоритмы:** Разрабатываю учебные игровые проекты и интерактивные механики на Unity (C#), а также увлекаюсь визуализацией сложных математических симуляций и клеточных автоматов.
+
+---
+
+### 🛠️ Технологический стек и инструменты
+
+#### Языки и фреймворки:
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+</p>
+
+#### Базы данных и инструменты:
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white" alt="DataGrip" />
+</p>
+
+#### Среды разработки и workflow:
+<p>
+  <img src="https://img.shields.io/badge/PyCharm-143055?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </p>
 
 ---
 
 ### 📈 Моя статистика на GitHub
 
-<!-- Блок со статистикой в виде таблицы, чтобы карточки стояли ровно в ряд -->
 <table>
   <tr>
     <td width="50%" align="center">
@@ -32,20 +54,12 @@
 
 ---
 
-### 🎯 Мои текущие фокусы и интересы
-* 🐍 Разработка десктопных и консольных приложений на Python.
-* 🧮 Реализация и визуализация сложных алгоритмов и симуляций.
-* 🧪 Системное тестирование, верификация кода и управление рисками в ПО.
-
----
-
-### 🤝 Как со мной связаться
-* **Discord:** `ТВОЙ_ДИСКОРД` (или ссылка)
+### 🤝 Связаться со мной:
 * **Telegram:** [@ТВОЙ_ТЕЛЕГРАМ](https://t.me/ТВОЙ_ТЕЛЕГРАМ)
+* **Discord:** `ТВОЙ_ДИСКОРД`
 
 ---
 
-<!-- Счётчик просмотров профиля (аккуратный и минималистичный) -->
 <p align="right">
   <img src="https://komarev.com/badge/counter.png?username=ТВОЙ_НИК&color=blue&style=flat-square" alt="Просмотры профиля" />
 </p>
