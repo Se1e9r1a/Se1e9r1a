@@ -60,5 +60,5 @@
 ---
 
 <p align="right">
-  <img src="https://komarev.com/badge/counter.png?username=ТВОЙ_НИК&color=blue&style=flat-square" alt="Просмотры профиля" />
+  <img src="https://komarev.com/badge/counter.png?username=Se1e9r1a&color=blue&style=flat-square" alt="Просмотры профиля" />
 </p>
